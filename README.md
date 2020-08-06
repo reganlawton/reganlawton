@@ -40,7 +40,6 @@
 ---
 
 <img align="left" alt="reganlawton's Github Stats" src="https://github-readme-stats.vercel.app/api?username=reganlawton&show_icons=true&hide_border=true&count_private=true" />
-<img align="left" alt="reganlawton's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reganlawton&layout=compact" />
 
 [website]: https://sma.rt.studio
 [twitter]: https://twitter.com/reganlawton
