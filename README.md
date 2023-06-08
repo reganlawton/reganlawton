@@ -1,8 +1,8 @@
 ### Hi there, I'm Regan 👋
 
 ## I'm a Husband, Father, Developer and Knowledge Seeker!
-- 🔭 I’m currently working at [SMART][website]
-- 🎓 I’m always learning new things
+- 🔭 I’m currently working at [Tapestry AI][website]
+- 🎓 I’m continually learning and building new things
 - 👯 I’m always looking to collaborate with other creators and projects
 - 🥅 Goals: Build more creative things and learn a new language
 - ⚡ Fun fact: I was almost going to be an accountant 😅
@@ -10,8 +10,8 @@
 ### Connect with me:
 
 [<img align="left" alt="reganlawton | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="reganlawton | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="reganlawton | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="reganlawton | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][instagram]
+[<img align="left" alt="reganlawton | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][linkedin]
 
 <br />
 
@@ -43,7 +43,7 @@
 
 <img align="left" alt="reganlawton's Github Stats" src="https://github-readme-stats.vercel.app/api?username=reganlawton&show_icons=true&hide_border=true&count_private=true" />
 
-[website]: https://sma.rt.studio
+[website]: https://www.tapestry.ai
 [twitter]: https://twitter.com/reganlawton
 [instagram]: https://instagram.com/reganlawton
 [linkedin]: https://linkedin.com/in/reganlawton
