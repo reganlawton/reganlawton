@@ -1,11 +1,54 @@
-### Hi there, I'm Regan 👋
+👋 Hello there, fellow tech enthusiasts! Welcome to my whimsical world of code and invention. Behold, the GitHub profile of a tech wizard with a sense of humor. Let's dive into the witty wonders of my digital kingdom:
 
-## I'm a Husband, Father, Developer and Knowledge Seeker!
-- 🔭 I’m currently working at [Tapestry AI][website]
-- 🎓 I’m continually learning and building new things
-- 👯 I’m always looking to collaborate with other creators and projects
-- 🥅 Goals: Build more creative things and learn a new language
-- ⚡ Fun fact: I was almost going to be an accountant 😅
+# 🧙‍♂️ Master of Code Sorcery 🧙‍♂️
+
+### About Me
+
+```typescript
+import { Developer } from 'awesome-developers-library';
+
+class TechWizard extends Developer {
+  name = 'Regan Lawton';
+  location = 'Melbourne, Australia';
+  experience = '10+ years of enchanting software engineering';
+
+  constructor() {
+    super();
+    this.skills.push('Front-End Sorcery', 'React & TypeScript Conjuring', 'Mobile Enchantments');
+    this.skills.push('AWS Cloud Wizardry', 'Server & Network DevOps Incantations');
+    this.skills.push('Python Potions', 'PHP Enchantments', 'Golang Sorcery', 'Rust Alchemy');
+    this.skills.push('Postgres Enigmas', 'Redis Conjuring', 'NoSQL Incantations');
+  }
+
+  getBio() {
+    return `Welcome to my realm of laughter and innovation! With my spellbinding skills, I've crafted consumer and business-facing applications. My wand has also weaved its magic in the realm of big data. Having danced with CraftCMS and OpenBazaar, I'm no stranger to creating bewitching plugins and contributing to enchanting open-source projects. Let's embark on a journey of laughter and technology together!`;
+  }
+}
+```
+
+## Featured Spells ✨
+
+### OEmbed Plugin for CraftCMS
+
+* Turn boring content into captivating experiences with the wave of my wand.
+* OEmbed spell allows you to embed content seamlessly and spread joy throughout the realm.
+* SimpleSharing Charm for CraftCMS
+
+### SimpleSharing Plugin for CraftCMS
+
+* Sharing is caring, and I've made it a breeze for CraftCMS users.
+* Spread the magic of sharing with just a flick of your wand!
+
+### Related Plugin for CraftCMS
+
+* Connecting the dots and weaving a web of related content.
+* This spell empowers CraftCMS to display linked site content like never before.
+
+## Thanks for visiting my profile!
+
+Feel free to explore my GitHub repositories and explore the secrets hidden within. Together, we'll combine frontend and backend magic, sprinkled with the charm of databases, to create extraordinary technologies!
+
+May your code be bug-free and your magic forever strong! 🧙‍♂️✨
 
 ### Connect with me:
 
