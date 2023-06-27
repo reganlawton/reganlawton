@@ -34,7 +34,6 @@ class TechWizard extends Developer {
 
 * Turn boring content into captivating experiences with the wave of my wand.
 * OEmbed spell allows you to embed content seamlessly and spread joy throughout the realm.
-* SimpleSharing Charm for CraftCMS
 
 ### SimpleSharing Plugin for CraftCMS
 
