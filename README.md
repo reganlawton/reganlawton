@@ -1,6 +1,8 @@
-👋 Hello there, fellow tech enthusiasts! Welcome to my whimsical world of code and invention. Behold, the GitHub profile of a tech wizard with a sense of humor. Let's dive into the witty wonders of my digital kingdom:
+# Welcome to my GitHub profile! 👋
 
-# 🧙‍♂️ Master of Code Sorcery 🧙‍♂️
+Hello there, fellow tech enthusiasts! Welcome to my whimsical world of code and invention. Behold, the GitHub profile of a tech wizard with a sense of humor. Let's dive into the witty wonders of my digital kingdom:
+
+## 🧙‍♂️ Master of Code Sorcery 🧙‍♂️
 
 ### About Me
 
