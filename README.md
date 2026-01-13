@@ -1,6 +1,6 @@
 # Regan Lawton
 
-**Full-Stack Engineer | AI Solutions Architect | CraftCMS Expert**
+**Full-Stack Engineer | Solutions Architect | CraftCMS Expert**
 
 > Building scalable solutions that bridge the gap between innovative technology and real-world impact
 
@@ -8,12 +8,12 @@
 
 ## About Me
 
-I'm a seasoned full-stack developer with a passion for crafting robust, scalable applications from concept to deployment. Currently leading technical initiatives at [Tapestry AI](https://tapestry.ai), where I architect intelligent solutions that transform how businesses leverage artificial intelligence.
+I'm a seasoned full-stack developer with a passion for crafting robust, scalable applications from concept to deployment. Currently leading technical initiatives at [Tapestry AI](https://tapestry.ai), where I architect intelligent solutions that transform how businesses leverage artificial intelligence / ML to empower real-time retail data across the supply chain.
 
 **What I Do:**
 - **Enterprise Architecture:** Design and implement large-scale distributed systems
-- **AI Integration:** Build intelligent applications that seamlessly integrate AI capabilities
-- **Full-Stack Development:** From React frontends to scalable backend APIs
+- **AI / ML Integration:** Build intelligent applications that seamlessly integrate AI / ML capabilities
+- **Full-Stack Development:** From React frontends and scalable backend APIs to DevOp and data pipes
 - **CraftCMS Ecosystem:** Maintainer of popular plugins serving thousands of developers
 
 **Currently Exploring:** Advanced Rust programming and systems-level optimizations
@@ -22,10 +22,10 @@ I'm a seasoned full-stack developer with a passion for crafting robust, scalable
 
 ## Professional Highlights
 
-🏢 **Software Architect** at Tapestry AI - Driving AI-first product development and guiding the engineering team to deliver cutting-edge solutions
+🏢 **Software Architect** at Tapestry AI - Driving AI-first product development and guiding the engineering team to deliver cutting-edge solutions using ML and real time data access
 🔧 **Open Source Contributor** - CraftCMS plugins at [github.com/wrav](https://github.com/wrav) a passion project enhancing the CraftCMS ecosystem
 🚀 **Technical Expertise** - 15+ years building production systems and scalable applications
-📊 **Impact** - Solutions deployed across enterprise and startup environments  
+📊 **Impact** - Solutions deployed across enterprise and startup environments
 
 ---
 
