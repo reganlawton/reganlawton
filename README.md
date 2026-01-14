@@ -22,10 +22,10 @@ I'm a seasoned full-stack developer with a passion for crafting robust, scalable
 
 ## Professional Highlights
 
-🏢 **Software Architect** at Tapestry AI - Driving AI-first product development and guiding the engineering team to deliver cutting-edge solutions using ML and real time data access
-🔧 **Open Source Contributor** - CraftCMS plugins at [github.com/wrav](https://github.com/wrav) a passion project enhancing the CraftCMS ecosystem
-🚀 **Technical Expertise** - 15+ years building production systems and scalable applications
-📊 **Impact** - Solutions deployed across enterprise and startup environments
+<p align="left">🏢 <strong>Software Architect</strong> at Tapestry AI - Driving AI-first product development and guiding the engineering team to deliver cutting-edge solutions using ML and real time data access</p>
+<p align="left">🔧 <strong>Open Source Contributor</strong> - CraftCMS plugins at <a href="https://github.com/wrav">github.com/wrav</a> a passion project enhancing the CraftCMS ecosystem</p>
+<p align="left">🚀 <strong>Technical Expertise</strong> - 15+ years building production systems and scalable applications</p>
+<p align="left">📊 <strong>Impact</strong> - Solutions deployed across enterprise and startup environments</p>
 
 ---
 
